@@ -3,7 +3,6 @@
 This repository contains Python scripts designed to automate various tasks related to managing Dropbox accounts, users, and files.
 
 ## Table of Contents
-  - [Table of Contents](#table-of-contents)
   - [Scripts Overview](#scripts-overview)
   - [Requirements](#requirements)
   - [Installation](#installation)
